@@ -11,10 +11,12 @@
             "id": "b623a96710ca2eca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "5e Players Handbook - Книга игрока RUS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5e Players Handbook - Книга игрока RUS"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5e Players Handbook - Книга игрока RUS.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 5e Players Handbook - Книга игрока RUS"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5e Players Handbook - Книга игрока RUS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 5e Players Handbook - Книга игрока RUS"
             }
           },
           {
@@ -150,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dnd/Untitled.md",
+                "file": "5e Players Handbook - Книга игрока RUS.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 5e Players Handbook - Книга игрока RUS"
             }
           }
         ]
@@ -177,10 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d38334bdc8356bc9",
+  "active": "b623a96710ca2eca",
   "lastOpenFiles": [
-    "dndWiki",
     "dnd/Untitled.md",
+    "5e Players Handbook - Книга игрока RUS.pdf",
+    "dndWiki",
     "dnd",
     "Welcome.md"
   ]
