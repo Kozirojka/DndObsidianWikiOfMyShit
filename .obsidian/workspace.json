@@ -13,10 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5e Players Handbook - Книга игрока RUS.pdf"
+                "file": "5e Dungeon Masters Guide - Руководство Мастера RUS.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 846,
+                "zoom": 1.4362023785527112
               },
               "icon": "lucide-file-text",
-              "title": "5e Players Handbook - Книга игрока RUS"
+              "title": "5e Dungeon Masters Guide - Руководство Мастера RUS"
             }
           }
         ]
@@ -178,13 +182,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "b623a96710ca2eca",
   "lastOpenFiles": [
-    "dnd/Untitled.md",
+    "Candlekeep Mysteries RUS.pdf",
+    "5e Dungeon Masters Guide - Руководство Мастера RUS.pdf",
     "5e Players Handbook - Книга игрока RUS.pdf",
+    "dnd/Untitled.md",
     "dndWiki",
     "dnd",
     "Welcome.md"
